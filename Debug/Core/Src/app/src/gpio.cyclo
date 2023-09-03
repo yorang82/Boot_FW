@@ -1,0 +1,7 @@
+../Core/Src/app/src/gpio.c:40:6:gpioInit	2
+../Core/Src/app/src/gpio.c:57:6:gpioPinMode	7
+../Core/Src/app/src/gpio.c:102:6:gpioPinWrite	3
+../Core/Src/app/src/gpio.c:119:6:gpiRede	3
+../Core/Src/app/src/gpio.c:136:6:gpoOn	2
+../Core/Src/app/src/gpio.c:142:6:gpoOff	2
+../Core/Src/app/src/gpio.c:148:6:gpoToggle	2
